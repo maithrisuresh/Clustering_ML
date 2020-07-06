@@ -8,8 +8,11 @@ Clustering is very much important as it determines the intrinsic grouping among 
 Applications of Clustering in different fields
 
 Marketing : It can be used to characterize & discover customer segments for marketing purposes.
+
 Biology : It can be used for classification among different species of plants and animals.
+
 Libraries : It is used in clustering different books on the basis of topics and information.
+
 Insurance : It is used to acknowledge the customers, their policies and identifying the frauds.
 
 K-Means clustering algorithm is defined as a unsupervised learning methods having an iterative process in which the dataset are grouped into k number of predefined non-overlapping clusters or subgroups making the inner points of the cluster as similar as possible while trying to keep the clusters at distinct space it allocates the data points to a cluster so that the sum of the squared distance between the clusters centroid and the data point is at a minimum, at this position the centroid of the cluster is the arithmetic mean of the data points that are in the clusters.
